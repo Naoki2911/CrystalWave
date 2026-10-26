@@ -70,13 +70,6 @@ before committing it to your repo.
 Plain-letter shortcuts are ignored while you're typing in a text box. In a song list,
 Up and Down move the selection instead of changing the volume.
 
-## Building an .exe
-
-```
-pip install pyinstaller
-pyinstaller --onefile --windowed --icon icon.ico --add-data "icon.ico;." --add-data "fonts;fonts" CrystalWave.py
-```
-
 ## Notes
 
 Settings, playlists and stats are stored as JSON files in your home folder.
