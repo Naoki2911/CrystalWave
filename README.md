@@ -20,7 +20,7 @@ customtkinter, VLC and yt-dlp.
 - Listening stats: top songs, top artists, streaks, last 7 days
 - Three themes: Crystal Purple, High Contrast and Light
 - Keyboard shortcuts
-- 
+
 ## Fonts
 
 CrystalWave uses the nicest font it can find, in this order: Poppins, Inter, Montserrat,
