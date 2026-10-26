@@ -20,25 +20,7 @@ customtkinter, VLC and yt-dlp.
 - Listening stats: top songs, top artists, streaks, last 7 days
 - Three themes: Crystal Purple, High Contrast and Light
 - Keyboard shortcuts
-
-## Setup
-
-1. Install [VLC](https://www.videolan.org). It has to match your Python (32 or 64-bit).
-2. Install the dependencies:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Optional: put an `icon.ico` next to `CrystalWave.py`.
-4. Run it:
-
-   ```
-   python CrystalWave.py
-   ```
-
-If search or playback stops working, update yt-dlp first: `pip install -U yt-dlp`.
-
+- 
 ## Fonts
 
 CrystalWave uses the nicest font it can find, in this order: Poppins, Inter, Montserrat,
